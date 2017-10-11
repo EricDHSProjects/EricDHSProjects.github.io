@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  background-image: url("pic1.jpg");
+  background-image: url("Headerpicture.jpg");
   background-position: center center;
   background-size: cover;
   height: 810px;
@@ -15,6 +15,8 @@ body {
 #header-text {
   margin: 0 auto;
   position: relative;
+  background-color: grey;
+  opacity: .6;
   text-align: center;
   top: 25%;
   width: 60%;
