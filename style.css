@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  background-image: url("Headerpicture").jpg;
+  background-image: url("Headerpicture.jpg");
   background-position: center center;
   background-size: cover;
   height: 810px;
