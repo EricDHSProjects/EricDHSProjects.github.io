@@ -8,15 +8,14 @@ body {
   background-image: url("Headerpicture.jpg");
   background-position: center center;
   background-size: cover;
-  height: 810px;
+  height: 600px;
   width: 100%;
 }
 
 #header-text {
   margin: 0 auto;
   position: relative;
-  background-color: grey;
-  opacity: .6;
+  background-color: rgba(211,211,211,0.6);
   text-align: center;
   top: 25%;
   width: 60%;
