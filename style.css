@@ -15,7 +15,7 @@ body {
 #header-text {
   margin: 0 auto;
   position: relative;
-  background-color: rgba(211,211,211,0.6);
+  background-color: rgba(192,192,192,0.6);
   text-align: center;
   top: 25%;
   width: 60%;
@@ -30,7 +30,7 @@ body {
   margin: 0;
 }
 
-#anti-text h4{
+#anti-text h3{
   color: black;
   font-family: 'Quicksand', sans-serif;
   font-size: 18px;
